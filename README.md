@@ -1,4 +1,4 @@
-Jumpstart-Labs-Blogger
+Jumpstart Labs Blogger
 ======================
 
-Jumpstart Labs Blogger Tutorial as per The Odin Project
+Jumpstart Labs Blogger Tutorial as per The-Odin-Project
